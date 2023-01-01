@@ -1,6 +1,7 @@
 export default {
     title: 'Sirius VitePress Demo Project',
-    description: '666',
+    description: '',
+    Last Update: true ,
     themeConfig: {
         sidebar: [{
             text: 'Guide',
