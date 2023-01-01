@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as i}from"./app.73513d9d.js";const m=JSON.parse('{"title":"声明","description":"","frontmatter":{},"headers":[],"relativePath":"guide/declaration.md"}'),r={name:"guide/declaration.md"},s=i("",5),o=[s];function l(c,n,d,_,p,h){return t(),a("div",null,o)}const f=e(r,[["render",l]]);export{m as __pageData,f as default};
